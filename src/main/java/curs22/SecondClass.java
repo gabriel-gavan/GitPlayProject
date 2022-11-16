@@ -1,5 +1,5 @@
 package curs22;
 
-public class NewClass {
+public class SecondClass {
 	String ceva ="";
 }
